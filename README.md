@@ -34,7 +34,8 @@
     <td colspan="2" valign="top">
       <h4>📊 <a href="https://github.com/parenok54/sulpak-price-analysis">Sulpak.kg price analysis</a> — scraping + data analysis + dashboard</h4>
       Scraped 1,937 products from Kyrgyzstan's biggest electronics retailer, cleaned and analysed prices, availability and discounts, built an interactive dashboard.
-      Findings: 40% of listings are out of stock, a 256 GB phone costs 21k–147k som depending on brand, half of washing machines are on sale vs 2% of laptops.<br/><br/>
+      Findings: 40% of listings are out of stock, a 256 GB phone costs 21k–147k som depending on brand, half of washing machines are on sale vs 2% of laptops.<br/>
+      ▶️ <b><a href="https://sulpak-price-analysis.streamlit.app">Live dashboard</a></b><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square" />
